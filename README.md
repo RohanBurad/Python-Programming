@@ -11,9 +11,9 @@ Practical implementations focusing on real-world applications and Data Science l
 - **Data Structures:** Fibonacci sequences and Set operations.
 - **OOP:** Method overriding, Polymorphism, and Bank Account management.
 - **Data Science Stack:**
-  - **NumPy:** Array slicing, indexing, and reshaping.
-  - **Pandas:** Dataset loading, filtering, and statistical analysis.
-  - **Matplotlib:** Data visualization (Line plots for Stock Prices).
+  - **NumPy:** Array slicing, indexing, and reshaping.
+  - **Pandas:** Dataset loading, filtering, and statistical analysis.
+  - **Matplotlib:** Data visualization (Line plots for Stock Prices).
 
 ### 🧩 Section 2: 100 Days of Logic
 A daily commitment to solving core programming challenges to build strong algorithmic thinking.
